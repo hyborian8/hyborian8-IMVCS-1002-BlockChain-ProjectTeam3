@@ -1,4 +1,4 @@
-# hyborian8-IMVCS-1002-BlockChain-ProjectTeam3
+# BlockChain-ProjectTeam3-IBM-IMVCS-1002
 
 chaincode folder - contains our modeled smart contract methods
 
