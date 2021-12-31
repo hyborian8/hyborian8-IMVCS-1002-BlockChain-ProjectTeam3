@@ -1,4 +1,4 @@
-# BlockChain-ProjectTeam3-IBM-IMVCS-1002
+# BlockChain-Project-Team3-IBM-IMVCS-1002
 
 chaincode folder - contains our modeled smart contract methods
 
